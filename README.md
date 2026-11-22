@@ -1,6 +1,6 @@
 # Max Ma
 
-Data analyst (6+ yrs) building AI tools on top of real business data. Singapore.
+Data analyst (6+ yrs) building AI tools on top of real business data. Based in Singapore.
 
 ## Now building
 
