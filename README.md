@@ -12,6 +12,6 @@ SQL, Python, Power BI, GCP/BigQuery. Consulting at Lynx Analytics and Edelman; i
 
 ## Links
 
-- Portfolio: [max-ma-portfolio.max-xing-ma.workers.dev](https://max-ma-portfolio.max-xing-ma.workers.dev/)
+- Portfolio: [max-ma-portfolio.max-xing-ma.workers.dev](https://maxmadata.com/)
 - LinkedIn: [linkedin.com/in/max-ma-data-specialist](https://www.linkedin.com/in/max-ma-data-specialist/)
 - Email: [max.xing.ma@gmail.com](mailto:max.xing.ma@gmail.com)
