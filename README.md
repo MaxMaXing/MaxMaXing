@@ -1,16 +1,17 @@
-## Hi there 👋
+# Max Ma
 
-<!--
-**MaxMaXing/MaxMaXing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst (6+ yrs) building AI tools on top of real business data. Singapore.
 
-Here are some ideas to get you started:
+## Now building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**FX Pricing & Valuation API 2.0**: an AI rebuild of a pricing platform I built at BCW Group, with an LLM tool-calling layer. 14-day build in public; repo coming soon.
+
+## Background
+
+SQL, Python, Power BI, GCP/BigQuery. Consulting at Lynx Analytics and Edelman; in-house at BCW Group.
+
+## Links
+
+- Portfolio: [max-ma-portfolio.max-xing-ma.workers.dev](https://max-ma-portfolio.max-xing-ma.workers.dev/)
+- LinkedIn: [linkedin.com/in/max-ma-data-specialist](https://www.linkedin.com/in/max-ma-data-specialist/)
+- Email: [max.xing.ma@gmail.com](mailto:max.xing.ma@gmail.com)
